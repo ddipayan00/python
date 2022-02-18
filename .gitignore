@@ -1,0 +1,10 @@
+/node_modules
+\node_modules
+/.idea
+\.idea
+/.serverless
+\.serverless
+\__pycache__
+/__pycache__
+\psycopg2
+/psycopg2
